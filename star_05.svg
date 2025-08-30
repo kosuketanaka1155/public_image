@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="24" viewBox="0 0 140 24" aria-label="rating 0.5">
+  <defs>
+    <symbol id="star-r-0-5" viewBox="0 0 24 24">
+      <path d="M12 17.27L18.18 21 16.54 13.97 22 9.24 14.81 8.63 12 2 9.19 8.63 2 9.24 7.46 13.97 5.82 21z"/>
+    </symbol>
+    <clipPath id="clip-r-0-5" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="12" height="24"/></clipPath>
+  </defs>
+  <g fill="#E0E0E0">
+    <use href="#star-r-0-5" x="0"   width="24" height="24"/>
+    <use href="#star-r-0-5" x="28"  width="24" height="24"/>
+    <use href="#star-r-0-5" x="56"  width="24" height="24"/>
+    <use href="#star-r-0-5" x="84"  width="24" height="24"/>
+    <use href="#star-r-0-5" x="112" width="24" height="24"/>
+  </g>
+  <g fill="#FFC107" clip-path="url(#clip-r-0-5)">
+    <use href="#star-r-0-5" x="0"   width="24" height="24"/>
+    <use href="#star-r-0-5" x="28"  width="24" height="24"/>
+    <use href="#star-r-0-5" x="56"  width="24" height="24"/>
+    <use href="#star-r-0-5" x="84"  width="24" height="24"/>
+    <use href="#star-r-0-5" x="112" width="24" height="24"/>
+  </g>
+</svg>
